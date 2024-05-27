@@ -1,6 +1,8 @@
-# vue
+# LARAVEL VUE.JS 
 
-akotosiTep
+```sh
+AKOTOSITEPTEPTEMPLATE
+```
 
 ## Project Setup
 
