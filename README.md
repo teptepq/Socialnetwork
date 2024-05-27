@@ -1,6 +1,6 @@
 # vue
 
-## AKOTOSITEP
+akotosiTep
 
 ## Project Setup
 
